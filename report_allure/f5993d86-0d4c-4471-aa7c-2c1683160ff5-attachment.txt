@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_searchCustomerbyEmail.py:19 ************* SearchCustomerByEmail_004 **********
+[32mINFO    [0m root:test_searchCustomerbyEmail.py:28 ************* Login succesful **********
+[32mINFO    [0m root:test_searchCustomerbyEmail.py:30 ******* Starting Search Customer By Email **********
+[32mINFO    [0m root:test_searchCustomerbyEmail.py:36 ************* searching customer by emailID **********
